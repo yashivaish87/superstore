@@ -2,7 +2,7 @@
 
 This repository contains an analysis dashboard developed using Excel. The dashboard provides insights into orders, sales, and other business metrics. The data is organized across multiple sheets, each serving a specific analytical purpose.
 
-[Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## File Overview
 
